@@ -1,1 +1,1 @@
-steamcmd.exe +login anonymous +force_install_dir $PSSriptRoot +app_update 4020 -beta x86-64 validate +quit
+steamcmd.exe +login anonymous +force_install_dir $PSScriptRoot +app_update 4020 -beta x86-64 validate +quit
