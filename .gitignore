@@ -9,7 +9,10 @@ steam_appid*
 garrysmod/cfg/*
 garrysmod/html
 garrysmod/lua/*
+
+# C++ Binary files
 !garrysmod/lua/bin
+
 garrysmod/maps
 garrysmod/particles
 garrysmod/resource
@@ -26,3 +29,6 @@ garrysmod/*.cache
 garrysmod/download*
 garrysmod/gamemodes/*
 garrysmod/addons/*
+
+# Addons
+!garrysmod/addons/gmrdb
