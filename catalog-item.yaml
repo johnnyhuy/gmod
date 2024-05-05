@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gmod
+  title: Garry's Mod
+  description: Troubleshooting debugging with Garry's Mod
+  tags:
+    - lua
+    - gmod
+spec:
+  type: library
+  lifecycle: experimental
+  owner: johnnyhuy
