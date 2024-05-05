@@ -6,7 +6,6 @@ metadata:
   description: Troubleshooting debugging with Garry's Mod
   tags:
     - lua
-    - gmod
 spec:
   type: library
   lifecycle: experimental
